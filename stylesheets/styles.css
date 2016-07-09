@@ -40,7 +40,7 @@ header a{
   position: relative;
 }
 
-.hero .inner{
+.hero .inner:nth-last-child{
   background: rgba(0,0,0,0.2) url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAYAAACddGYaAAAAD0lEQVQIW2NkQABjRmQOAAM+AGkQsDBSAAAAAElFTkSuQmCC) repeat;}
 
 
