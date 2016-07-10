@@ -79,6 +79,8 @@ h2 {
 #about,
 #portfolio,
 #contact {
-  margin-top: 45px;
-
+  height: 45px;
+  margin-top: -45px;
+  display: block;
+  visibility: hidden;
 }
