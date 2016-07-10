@@ -81,4 +81,6 @@ h2 {
 #contact {
   height: 85px;
   margin-top: -85px;
+  display: block;
+  visibility: hidden;
 }
