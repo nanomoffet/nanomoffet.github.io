@@ -75,3 +75,10 @@ h1 {
 h2 {
   font-size: 2rem;
 }
+
+#about,
+#portfolio,
+#contact {
+  height: 85px;
+  margin-top: -85px;
+}
