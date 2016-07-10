@@ -70,17 +70,9 @@ h2 {
 
 h1 {
   font-size: 3rem;
+  padding-top: 100px;
 }
 
 h2 {
   font-size: 2rem;
 }
-
-/*#about,*/
-/*#portfolio,*/
-/*#contact {*/
-  /*height: 45px;*/
-  /*margin-top: -45px;*/
-  /*display: block;*/
-  /*visibility: hidden;*/
-/*}*/
