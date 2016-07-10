@@ -76,11 +76,11 @@ h2 {
   font-size: 2rem;
 }
 
-#about,
-#portfolio,
-#contact {
-  height: 45px;
-  margin-top: -45px;
-  display: block;
-  visibility: hidden;
-}
+/*#about,*/
+/*#portfolio,*/
+/*#contact {*/
+  /*height: 45px;*/
+  /*margin-top: -45px;*/
+  /*display: block;*/
+  /*visibility: hidden;*/
+/*}*/
