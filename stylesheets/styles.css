@@ -23,6 +23,10 @@ header a{
   letter-spacing:2px;
   font-weight:700;
 }
+
+.nav {
+  display: inline-block;
+}
 #hero1{
   background:url(../images/AdobeStock_81776229.jpeg);
   background-size:cover;
