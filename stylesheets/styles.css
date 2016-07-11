@@ -148,6 +148,7 @@ input[type=submit] {
 
 .sm i {
   margin-top: 50px;
+  border-radius: 50%;
 }
 
 .sm a {

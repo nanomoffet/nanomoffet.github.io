@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="82a24bd4-b4d3-4a5b-8c44-736773c842dd" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/styles.css" afterPath="$PROJECT_DIR$/stylesheets/styles.css" />
     </list>
     <ignored path="resume.iws" />
@@ -29,8 +30,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="91" column="73" selection-start-line="91" selection-start-column="73" selection-end-line="91" selection-end-column="73" />
+            <state relative-caret-position="268">
+              <caret line="94" column="90" selection-start-line="94" selection-start-column="90" selection-end-line="94" selection-end-column="90" />
               <folding>
                 <element signature="n#style#0;n#input#6;n#form#0;n#div#0;n#div#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -51,8 +52,8 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheets/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="160" column="1" selection-start-line="160" selection-start-column="1" selection-end-line="160" selection-end-column="1" />
+            <state relative-caret-position="103">
+              <caret line="150" column="21" selection-start-line="150" selection-start-column="21" selection-end-line="150" selection-end-column="21" />
               <folding>
                 <element signature="e#921#1044#1" expanded="true" />
               </folding>
@@ -245,12 +246,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1468085324670</updated>
-      <workItem from="1468085334846" duration="15078000" />
+      <workItem from="1468085334846" duration="15434000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15078000" />
+    <option name="totallyTimeSpent" value="15434000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="16" y="23" width="1260" height="681" extended-state="0" />
@@ -324,8 +325,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="91" column="73" selection-start-line="91" selection-start-column="73" selection-end-line="91" selection-end-column="73" />
+        <state relative-caret-position="268">
+          <caret line="94" column="90" selection-start-line="94" selection-start-column="90" selection-end-line="94" selection-end-column="90" />
           <folding>
             <element signature="n#style#0;n#input#6;n#form#0;n#div#0;n#div#0;n#div#0;n#section#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -334,8 +335,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="160" column="1" selection-start-line="160" selection-start-column="1" selection-end-line="160" selection-end-column="1" />
+        <state relative-caret-position="103">
+          <caret line="150" column="21" selection-start-line="150" selection-start-column="21" selection-end-line="150" selection-end-column="21" />
           <folding>
             <element signature="e#921#1044#1" expanded="true" />
           </folding>
