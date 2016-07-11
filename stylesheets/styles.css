@@ -145,3 +145,8 @@ input[type=submit] {
   padding-right: 25px;
   text-align: center;
 }
+
+i {
+  font-size: 48px;
+  margin-top: 50px;
+}
