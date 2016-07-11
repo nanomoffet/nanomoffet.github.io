@@ -76,3 +76,29 @@ h1 {
 h2 {
   font-size: 2rem;
 }
+
+.fancy {
+  line-height: 0.5;
+  text-align: center;
+}
+.fancy i {
+  display: inline-block;
+  position: relative;
+}
+.fancy i:before,
+.fancy i:after {
+  content: "";
+  position: absolute;
+  height: 5px;
+  border-bottom: 1px solid white;
+  top: 0;
+  width: 600px;
+}
+.fancy i:before {
+  right: 100%;
+  margin-right: 15px;
+}
+.fancy i:after {
+  left: 100%;
+  margin-left: 15px;
+}
