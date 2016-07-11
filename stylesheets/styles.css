@@ -58,6 +58,7 @@ header a{
   position:absolute;
   top:50%;
   margin-top:-5em;
+  height: 10em;
   width:100%;
 }
 
