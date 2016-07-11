@@ -151,10 +151,9 @@ input[type=submit] {
 }
 
 .sm a {
-  font-size: 24px;
   transition: size .5s;
 }
 
 a i:hover {
-  font-size: 40px;
+  font-size: 1.666em;
 }
