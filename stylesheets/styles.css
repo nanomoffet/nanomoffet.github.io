@@ -79,8 +79,6 @@ h2 {
 
 .intro {
   overflow: hidden;
-  width: 80%;
-  margin-left: 10%;
 }
 
 .intro h1 {
@@ -113,4 +111,3 @@ h2 {
   left: 100%;
   margin-left: 15px;
 }
-
