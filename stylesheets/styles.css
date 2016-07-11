@@ -114,6 +114,18 @@ h2 {
   margin-left: 15px;
 }
 
+#portfolio a {
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+}
+
+#portfolio a:hover,
+#portfolio a:active {
+  color: #000;
+  background: #fff;
+}
+
 form {
   color: #ddd;
 }
