@@ -127,7 +127,7 @@ h2 {
 }
 
 .nav-tabs {
-  underline: none;
+  border: none;
 }
 form {
   color: #ddd;
