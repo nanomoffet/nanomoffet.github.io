@@ -121,11 +121,14 @@ h2 {
 }
 
 #portfolio a:hover,
-#portfolio a:active {
+#portfolio a.active {
   color: #000;
   background: #fff;
 }
 
+.nav-tabs {
+  underline: none;
+}
 form {
   color: #ddd;
 }
