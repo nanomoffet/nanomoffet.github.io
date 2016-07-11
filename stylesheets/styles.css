@@ -113,13 +113,22 @@ h2 {
 }
 
 input[type=text],
-input[type=email],
-textarea {
+input[type=email]
+{
   width: 100%;
   background: transparent;
   border: none;
   border-bottom: 1px solid #ddd;
   height: 20px;
+  line-height: 20px;
+  margin-bottom: 35px;
+}
+
+textarea {
+  width: 100%;
+  background: transparent;
+  border: 1px solid #ddd;
+  height: 40px;
   line-height: 20px;
   margin-bottom: 35px;
 }
